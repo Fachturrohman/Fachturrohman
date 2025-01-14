@@ -9,7 +9,7 @@
 
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
-- 👨🏽‍💻 I’m currently working on [Sekolahan.id](https://www.sekolahan.id/);
+<!-- - 👨🏽‍💻 I’m currently working on [Sekolahan.id](https://www.sekolahan.id/);-->
 - 🌱 I’m focusly learning Web Developer and Continuous Integration;
 - 📫 How to reach me: fachturrohman03@gmail.com;
 
